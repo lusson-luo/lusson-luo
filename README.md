@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![lusson's github stats](https://github-readme-stats.vercel.app/api?username=lusson-luo&show_icons=true&theme=radical)
+![lusson's github stats](https://github-readme-stats.vercel.app/api?username=lusson-luo&show_icons=true&theme=blue-green)
