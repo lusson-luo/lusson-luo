@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![gogoods's github stats](https://github-readme-stats.vercel.app/api?username=lusson-luo&show_icons=true&theme=radical)
